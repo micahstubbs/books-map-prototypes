@@ -1,0 +1,6 @@
+- get ISBNs for all books
+- author
+- year first published
+- edition / book versions
+- book cover image
+- show network of books an author has written
