@@ -1,0 +1,676 @@
+[
+  {
+    "title": "Thematic Cartography and Geovisualization, 3rd Edition",
+    "price": 186.55,
+    "productId": "0132298341",
+    "link":
+      "https://amzn.com/dp/0132298341/_encoding=UTF8?coliid=I131KJOJ6ARLGQ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Categorical Data Analysis",
+    "price": 95.38,
+    "productId": "0470463635",
+    "link":
+      "https://amzn.com/dp/0470463635/_encoding=UTF8?coliid=IXM4GII8IPZUD&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Interactive Graphics for Data Analysis: Principles and Examples (Chapman & Hall/CRC Computer Science & Data Analysis)",
+    "price": 72.82,
+    "productId": "1584885947",
+    "link":
+      "https://amzn.com/dp/1584885947/_encoding=UTF8?coliid=I1DKR6AS8WQQP0&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Creating More Effective Graphs",
+    "price": 34.95,
+    "productId": "0985911123",
+    "link":
+      "https://amzn.com/dp/0985911123/_encoding=UTF8?coliid=IN2CI3VSJJZS3&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations",
+    "price": 26.89,
+    "productId": "1592538061",
+    "link":
+      "https://amzn.com/dp/1592538061/_encoding=UTF8?coliid=I1ZPQJS89R2M8D&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Graphical Tools for the Exploration of Multivariate Categorical Data (German Edition)",
+    "price": 25.9,
+    "productId": "3831116601",
+    "link":
+      "https://amzn.com/dp/3831116601/_encoding=UTF8?coliid=IE2PXGTBRVMDH&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Now You See It: Simple Visualization Techniques for Quantitative Analysis",
+    "price": 25.2,
+    "productId": "0970601980",
+    "link":
+      "https://amzn.com/dp/0970601980/_encoding=UTF8?coliid=I3HED42PZAQ1ZY&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Dynamic Graphics Statistics (Wadsworth Biology Series)",
+    "price": 220,
+    "productId": "053409144X",
+    "link":
+      "https://amzn.com/dp/053409144X/_encoding=UTF8?coliid=IV0L9U9K1NNP6&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Charting Statistics",
+    "price": null,
+    "productId": "B0000CICCK",
+    "link":
+      "https://amzn.com/dp/B0000CICCK/_encoding=UTF8?coliid=I6DJET27B6UTY&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Statistical Graphics for Visualizing Multivariate Data (Quantitative Applications in the Social Sciences)",
+    "price": 17.26,
+    "productId": "0761908994",
+    "link":
+      "https://amzn.com/dp/0761908994/_encoding=UTF8?coliid=I390S4INGASGKO&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Interpreting Multivariate Data (Probability & Mathematical Statistics)",
+    "price": null,
+    "productId": "0471280399",
+    "link":
+      "https://amzn.com/dp/0471280399/_encoding=UTF8?coliid=I1JZALVDBRDJMQ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Handbook of Data Visualization (Springer Handbooks of Computational Statistics)",
+    "price": 302.2,
+    "productId": "3540330364",
+    "link":
+      "https://amzn.com/dp/3540330364/_encoding=UTF8?coliid=I2G6JR18P2P7AR&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Grammar of Graphics (Statistics and Computing)",
+    "price": 143.18,
+    "productId": "0387245448",
+    "link":
+      "https://amzn.com/dp/0387245448/_encoding=UTF8?coliid=I19ET3HRCCZQY2&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Semiology of Graphics: Diagrams, Networks, Maps",
+    "price": 47.29,
+    "productId": "1589482611",
+    "link":
+      "https://amzn.com/dp/1589482611/_encoding=UTF8?coliid=I26U0V9AKM21CF&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Exploratory Data Analysis",
+    "price": 103.52,
+    "productId": "0201076160",
+    "link":
+      "https://amzn.com/dp/0201076160/_encoding=UTF8?coliid=I3S9XSV2136A48&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures",
+    "price": 17.46,
+    "productId": "0393347281",
+    "link":
+      "https://amzn.com/dp/0393347281/_encoding=UTF8?coliid=I16WQKS7I1T21G&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+    "price": 29.23,
+    "productId": "1491910399",
+    "link":
+      "https://amzn.com/dp/1491910399/_encoding=UTF8?coliid=I4B40MHTDD2KZ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Interactive Data Visualization for the Web: An Introduction to Designing with D3",
+    "price": 40.36,
+    "productId": "1491921285",
+    "link":
+      "https://amzn.com/dp/1491921285/_encoding=UTF8?coliid=I36G0GZ326PBQ8&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Understanding the World: The Atlas of Infographics",
+    "price": 46.43,
+    "productId": "3836548836",
+    "link":
+      "https://amzn.com/dp/3836548836/_encoding=UTF8?coliid=I2Q9M16ABYTR3V&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Visualize This: The FlowingData Guide to Design, Visualization, and Statistics",
+    "price": 26.38,
+    "productId": "0470944889",
+    "link":
+      "https://amzn.com/dp/0470944889/_encoding=UTF8?coliid=I310CEVZ87BMYH&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Data Points: Visualization That Means Something",
+    "price": 24.18,
+    "productId": "111846219X",
+    "link":
+      "https://amzn.com/dp/111846219X/_encoding=UTF8?coliid=I1ENQZIR859O75&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Graph Analysis and Visualization: Discovering Business Opportunity in Linked Data by Brath, Richard, Jonker, David (2015) Paperback",
+    "price": null,
+    "productId": "B00YDK41K8",
+    "link":
+      "https://amzn.com/dp/B00YDK41K8/_encoding=UTF8?coliid=I1EK489QLINDGU&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Look Inside: Cutaway Illustrations and Visual Storytelling",
+    "price": 40.8,
+    "productId": "3899556399",
+    "link":
+      "https://amzn.com/dp/3899556399/_encoding=UTF8?coliid=IYVDIXMBSBY9X&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Cartographies of Time: A History of the Timeline",
+    "price": 25.38,
+    "productId": "1616890584",
+    "link":
+      "https://amzn.com/dp/1616890584/_encoding=UTF8?coliid=IRJ0BVKCH65DQ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Visual Complexity: Mapping Patterns of Information",
+    "price": 26.11,
+    "productId": "1568989369",
+    "link":
+      "https://amzn.com/dp/1568989369/_encoding=UTF8?coliid=I1KF80JOKO2MPG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Book of Trees: Visualizing Branches of Knowledge",
+    "price": 21.98,
+    "productId": "1616892188",
+    "link":
+      "https://amzn.com/dp/1616892188/_encoding=UTF8?coliid=I3BN1380LI1CVA&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Art of Illustrated Maps: A Complete Guide to Creative Mapmaking's History, Process and Inspiration",
+    "price": 20.01,
+    "productId": "1440339562",
+    "link":
+      "https://amzn.com/dp/1440339562/_encoding=UTF8?coliid=I2YZL6N0KLKCA6&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Art of the Map: An Illustrated History of Map Elements and Embellishments",
+    "price": 8.1,
+    "productId": "1402765924",
+    "link":
+      "https://amzn.com/dp/1402765924/_encoding=UTF8?coliid=I2MRVE1O3W0IQ7&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Mapping the World: An Illustrated History of Cartography",
+    "price": 30.65,
+    "productId": "0792265254",
+    "link":
+      "https://amzn.com/dp/0792265254/_encoding=UTF8?coliid=IN6U1O3H5MRCR&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Van Loon's Geography",
+    "price": null,
+    "productId": "B002CO914I",
+    "link":
+      "https://amzn.com/dp/B002CO914I/_encoding=UTF8?coliid=I2AJFEF6KS5XE2&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Nine Lives of John Ogilby",
+    "price": null,
+    "productId": "0715651102",
+    "link":
+      "https://amzn.com/dp/0715651102/_encoding=UTF8?coliid=I1YP4EN47LBCCH&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Treasures from the Map Room: A Journey through the Bodleian Collections",
+    "price": 51.02,
+    "productId": "1851242503",
+    "link":
+      "https://amzn.com/dp/1851242503/_encoding=UTF8?coliid=I1W1YW3GSITCG3&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "World Geo-Graphic Atlas: A Composite of Man's Environment",
+    "price": null,
+    "productId": "B001B3MI82",
+    "link":
+      "https://amzn.com/dp/B001B3MI82/_encoding=UTF8?coliid=I197CTC6QQ65GD&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics Designers' Sketchbooks",
+    "price": 45,
+    "productId": "1616892862",
+    "link":
+      "https://amzn.com/dp/1616892862/_encoding=UTF8?coliid=I21PSINPXZ4WSG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Where The Animals Go: Tracking Wildlife with Technology in 50 Maps and Graphics",
+    "price": null,
+    "productId": "1846148812",
+    "link":
+      "https://amzn.com/dp/1846148812/_encoding=UTF8?coliid=II3ZG4QBH2G7Z&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The History of Cartography, Volume 6: Cartography in the Twentieth Century",
+    "price": 389.19,
+    "productId": "0226534693",
+    "link":
+      "https://amzn.com/dp/0226534693/_encoding=UTF8?coliid=I2OKLYCPZ6OCEB&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Facts are Sacred",
+    "price": null,
+    "productId": "0571301614",
+    "link":
+      "https://amzn.com/dp/0571301614/_encoding=UTF8?coliid=IKLHF2VOMFPER&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812",
+    "price": 34.82,
+    "productId": "158948312X",
+    "link":
+      "https://amzn.com/dp/158948312X/_encoding=UTF8?coliid=I3SQ49FBU8BCMJ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics Design",
+    "price": null,
+    "productId": "4861009332",
+    "link":
+      "https://amzn.com/dp/4861009332/_encoding=UTF8?coliid=I1LXNH2TKULTAS&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Wine Folly: The Essential Guide to Wine",
+    "price": 18.83,
+    "productId": "1592408990",
+    "link":
+      "https://amzn.com/dp/1592408990/_encoding=UTF8?coliid=I389306C6H82MG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Information Dashboard Design: Displaying Data for At-a-Glance Monitoring",
+    "price": 23.35,
+    "productId": "1938377001",
+    "link":
+      "https://amzn.com/dp/1938377001/_encoding=UTF8?coliid=I2H5OYV8C4BEBN&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Signal: Understanding What Matters in a World of Noise",
+    "price": 35.25,
+    "productId": "1938377052",
+    "link":
+      "https://amzn.com/dp/1938377052/_encoding=UTF8?coliid=I36L5GZPI4B1IJ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Understanding Data:2nd (Second) edition",
+    "price": null,
+    "productId": "B0032OM19O",
+    "link":
+      "https://amzn.com/dp/B0032OM19O/_encoding=UTF8?coliid=I2BXXNX6HEIMDU&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Data at Work: Best practices for creating effective charts and information graphics in Microsoft Excel (Voices That Matter)",
+    "price": 27.99,
+    "productId": "0134268636",
+    "link":
+      "https://amzn.com/dp/0134268636/_encoding=UTF8?coliid=I2MTZ7877DA6DS&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Around the World: The Atlas for Today",
+    "price": 36.45,
+    "productId": "3899554973",
+    "link":
+      "https://amzn.com/dp/3899554973/_encoding=UTF8?coliid=INOJL93IOKDPA&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Mapmakers: Revised Edition",
+    "price": 16.56,
+    "productId": "0375708502",
+    "link":
+      "https://amzn.com/dp/0375708502/_encoding=UTF8?coliid=I3201JQQ4I58EK&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "How to Lie with Maps (2nd Edition)",
+    "price": 14.33,
+    "productId": "0226534219",
+    "link":
+      "https://amzn.com/dp/0226534219/_encoding=UTF8?coliid=I1NTG59SV2UTP0&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "100 Diagrams That Changed the World: From the Earliest Cave Paintings to the Innovation of the iPod",
+    "price": null,
+    "productId": "0452298776",
+    "link":
+      "https://amzn.com/dp/0452298776/_encoding=UTF8?coliid=I3C7IN340Y9676&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Early Thematic Mapping in the History of Cartography",
+    "price": null,
+    "productId": "0226722856",
+    "link":
+      "https://amzn.com/dp/0226722856/_encoding=UTF8?coliid=I3IHSFF3Y38XKP&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Map That Changed the World: William Smith and the Birth of Modern Geology",
+    "price": 8.47,
+    "productId": "0061767905",
+    "link":
+      "https://amzn.com/dp/0061767905/_encoding=UTF8?coliid=IQI7OYGURKLHV&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Picturing the Uncertain World: How to Understand, Communicate, and Control Uncertainty through Graphical Display",
+    "price": 22.34,
+    "productId": "0691152675",
+    "link":
+      "https://amzn.com/dp/0691152675/_encoding=UTF8?coliid=I4X5FSI73MXU2&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Graphic Discovery: A Trout in the Milk and Other Visual Adventures",
+    "price": 13.93,
+    "productId": "0691103011",
+    "link":
+      "https://amzn.com/dp/0691103011/_encoding=UTF8?coliid=I24Y2MU58I4CPF&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Graphical Representation of Multivariate Data",
+    "price": null,
+    "productId": "012734750X",
+    "link":
+      "https://amzn.com/dp/012734750X/_encoding=UTF8?coliid=I1N7ILU3BSP2II&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Information Is Beautiful (New Edition)",
+    "price": null,
+    "productId": "0007492898",
+    "link":
+      "https://amzn.com/dp/0007492898/_encoding=UTF8?coliid=I18V4GSD66GY45&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Knowledge Is Beautiful: Impossible Ideas, Invisible Patterns, Hidden Connections--Visualized",
+    "price": 24.55,
+    "productId": "0062188224",
+    "link":
+      "https://amzn.com/dp/0062188224/_encoding=UTF8?coliid=I1OLRJZDUR0LXX&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios",
+    "price": 33.49,
+    "productId": "1119282713",
+    "link":
+      "https://amzn.com/dp/1119282713/_encoding=UTF8?coliid=I21VW3AA5DR6G0&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Storytelling with Data: A Data Visualization Guide for Business Professionals",
+    "price": 20.39,
+    "productId": "1119002257",
+    "link":
+      "https://amzn.com/dp/1119002257/_encoding=UTF8?coliid=IJXRHT03UV3Y8&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Visual Storytelling with D3: An Introduction to Data Visualization in JavaScript (Addison-Wesley Data and Analytics)",
+    "price": 27.64,
+    "productId": "0321933176",
+    "link":
+      "https://amzn.com/dp/0321933176/_encoding=UTF8?coliid=I2WYAK5DI6NREX&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Functional Art: An introduction to information graphics and visualization (Voices That Matter)",
+    "price": 37,
+    "productId": "0321834739",
+    "link":
+      "https://amzn.com/dp/0321834739/_encoding=UTF8?coliid=I1FEKTSRW9MWL8&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Truthful Art: Data, Charts, and Maps for Communication",
+    "price": 45.09,
+    "productId": "0321934075",
+    "link":
+      "https://amzn.com/dp/0321934075/_encoding=UTF8?coliid=I2V9RPCI4KOQU7&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Data Visualisation: A Handbook for Data Driven Design",
+    "price": 33.17,
+    "productId": "1473912148",
+    "link":
+      "https://amzn.com/dp/1473912148/_encoding=UTF8?coliid=IGBKD6JWSYNIB&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Data Visualization: a successful design process",
+    "price": 29.97,
+    "productId": "1849693463",
+    "link":
+      "https://amzn.com/dp/1849693463/_encoding=UTF8?coliid=I3GEDOQ6DUWFG7&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Playfair's Commercial and Political Atlas and Statistical Breviary",
+    "price": 52.29,
+    "productId": "0521855543",
+    "link":
+      "https://amzn.com/dp/0521855543/_encoding=UTF8?coliid=I17DJWQEDCBUDV&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Manuel de datavisualisation - Méthodes - Cas pratiques",
+    "price": 42.87,
+    "productId": "210073881X",
+    "link":
+      "https://amzn.com/dp/210073881X/_encoding=UTF8?coliid=I1JIQP954RIFQI&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Photoviz: Visualizing Information through Photography",
+    "price": 19.62,
+    "productId": "3899556453",
+    "link":
+      "https://amzn.com/dp/3899556453/_encoding=UTF8?coliid=I28CFJV68SOZTG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Dear Data",
+    "price": 24.06,
+    "productId": "1616895322",
+    "link":
+      "https://amzn.com/dp/1616895322/_encoding=UTF8?coliid=I2GTJO4KW0GA4C&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Book of Circles: Visualizing Spheres of Knowledge",
+    "price": 27.19,
+    "productId": "1616895284",
+    "link":
+      "https://amzn.com/dp/1616895284/_encoding=UTF8?coliid=I390J5KEY720RZ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Show Me the Numbers: Designing Tables and Graphs to Enlighten",
+    "price": 31.55,
+    "productId": "0970601972",
+    "link":
+      "https://amzn.com/dp/0970601972/_encoding=UTF8?coliid=IDO7YDKUTVY8Y&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Information Dashboard Design: The Effective Visual Communication of Data",
+    "price": null,
+    "productId": "0596100167",
+    "link":
+      "https://amzn.com/dp/0596100167/_encoding=UTF8?coliid=IUM2S6JNR0OJ6&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Show Me the Numbers: Designing Tables and Graphs to Enlighten",
+    "price": null,
+    "productId": "0970601999",
+    "link":
+      "https://amzn.com/dp/0970601999/_encoding=UTF8?coliid=I71VKH3W1D177&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Visual Revelations: Graphical Tales of Fate and Deception From Napoleon Bonaparte To Ross Perot",
+    "price": 55,
+    "productId": "0805838783",
+    "link":
+      "https://amzn.com/dp/0805838783/_encoding=UTF8?coliid=I34Y50U03P1JNR&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Data Visualization for Success: Interviews with 40 Experienced Designers",
+    "price": 32.54,
+    "productId": "1864707208",
+    "link":
+      "https://amzn.com/dp/1864707208/_encoding=UTF8?coliid=I1M4AOIUNK102W&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics, Grade 5 (Ready to Go)",
+    "price": 17.46,
+    "productId": "1483830780",
+    "link":
+      "https://amzn.com/dp/1483830780/_encoding=UTF8?coliid=I3BND682ZBF0HJ&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics, Grade 3 (Ready to Go)",
+    "price": 13.91,
+    "productId": "1483830764",
+    "link":
+      "https://amzn.com/dp/1483830764/_encoding=UTF8?coliid=I3NE0O7KT9RALV&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics, Grade 1 (Ready to Go)",
+    "price": 10.44,
+    "productId": "1483830748",
+    "link":
+      "https://amzn.com/dp/1483830748/_encoding=UTF8?coliid=I1YR0IDW9WLCSG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics, Grade 2 (Ready to Go)",
+    "price": 13.29,
+    "productId": "1483830756",
+    "link":
+      "https://amzn.com/dp/1483830756/_encoding=UTF8?coliid=IS8IADJKSEVVV&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Infographics, Grade 4 (Ready to Go)",
+    "price": 18.97,
+    "productId": "1483830772",
+    "link":
+      "https://amzn.com/dp/1483830772/_encoding=UTF8?coliid=I1FU12OWVFIHBH&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Eyeo Convergence to Inspire 2011-2015",
+    "price": null,
+    "productId": "0692439382",
+    "link":
+      "https://amzn.com/dp/0692439382/_encoding=UTF8?coliid=I25HSZOLC63CEP&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Great Maps (Dk Smithsonian)",
+    "price": 16.49,
+    "productId": "1465424636",
+    "link":
+      "https://amzn.com/dp/1465424636/_encoding=UTF8?coliid=I25ZT2JJ6465TG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Great City Maps",
+    "price": 17.88,
+    "productId": "146545358X",
+    "link":
+      "https://amzn.com/dp/146545358X/_encoding=UTF8?coliid=I1DOP52WVJPAD2&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Mapping the World: The Story of Cartography",
+    "price": 17.37,
+    "productId": "0233004394",
+    "link":
+      "https://amzn.com/dp/0233004394/_encoding=UTF8?coliid=I1OVETVKA5FMD7&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "The Visual Display of Quantitative Information",
+    "price": 36.97,
+    "productId": "0961392142",
+    "link":
+      "https://amzn.com/dp/0961392142/_encoding=UTF8?coliid=I2LU7VSXBQ91RG&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Envisioning Information",
+    "price": 37.08,
+    "productId": "0961392118",
+    "link":
+      "https://amzn.com/dp/0961392118/_encoding=UTF8?coliid=I32BBCR0KTMXDM&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Beautiful Evidence",
+    "price": 43.86,
+    "productId": "0961392177",
+    "link":
+      "https://amzn.com/dp/0961392177/_encoding=UTF8?coliid=I2QQ08H8W6B6H9&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Visual Explanations: Images and Quantities, Evidence and Narrative",
+    "price": 21.39,
+    "productId": "0961392126",
+    "link":
+      "https://amzn.com/dp/0961392126/_encoding=UTF8?coliid=I22VXCPGZ9MNAL&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "Visual and Statistical Thinking: Displays of Evidence for Making Decisions",
+    "price": 7,
+    "productId": "0961392134",
+    "link":
+      "https://amzn.com/dp/0961392134/_encoding=UTF8?coliid=I2U8H1TQEKS0S6&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "The Cognitive Style of PowerPoint: Pitching Out Corrupts Within, Second Edition",
+    "price": 7,
+    "productId": "0961392169",
+    "link":
+      "https://amzn.com/dp/0961392169/_encoding=UTF8?coliid=I2FIQ8CC4JKFZK&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "D3.js in Action: Data visualization with JavaScript",
+    "price": 41.91,
+    "productId": "1617294489",
+    "link":
+      "https://amzn.com/dp/1617294489/_encoding=UTF8?coliid=IATPOGC3XA28J&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title":
+      "D3 Tips and Tricks v 3.x: Interactive Data Visualization in a Web Browser",
+    "price": 1.99,
+    "productId": "B00IZ6P1KU",
+    "link":
+      "https://amzn.com/dp/B00IZ6P1KU/_encoding=UTF8?coliid=I3QN2P1GQE489V&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Learning D3.js Mapping",
+    "price": 9.99,
+    "productId": "B00RP13CPC",
+    "link":
+      "https://amzn.com/dp/B00RP13CPC/_encoding=UTF8?coliid=I14HS3OXZ2YV8X&colid=1ODPU10TOS3I4"
+  },
+  {
+    "title": "Data Visualization with D3.js Cookbook",
+    "price": 16.54,
+    "productId": "B00G58JD5E",
+    "link":
+      "https://amzn.com/dp/B00G58JD5E/_encoding=UTF8?coliid=I3UG08K020658N&colid=1ODPU10TOS3I4"
+  }
+]

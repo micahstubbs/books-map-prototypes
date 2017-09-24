@@ -1,8 +1,8 @@
 const jsonfile = require('jsonfile');
 const AmazonListScraper = require('amazon-list-scraper').default;
 
-const listTitle = 'test-list';
-const wishList = 'https://www.amazon.com/gp/registry/wishlist/1JMCNHNT959X2';
+const listTitle = 'vis-books';
+const wishList = 'https://www.amazon.com/hz/wishlist/ls/1ODPU10TOS3I4?&sort=default';
 
 const scraper = new AmazonListScraper();
 scraper
