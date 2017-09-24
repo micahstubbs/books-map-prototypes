@@ -1,0 +1,16 @@
+[
+  {
+    "title": "JavaScript: The Good Parts: The Good Parts",
+    "price": 13.49,
+    "productId": "B0026OR2ZY",
+    "link":
+      "https://amzn.com/dp/B0026OR2ZY/_encoding=UTF8?coliid=I65VI60WE4DXL&colid=1JMCNHNT959X2"
+  },
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "price": 31.9,
+    "productId": "0132350882",
+    "link":
+      "https://amzn.com/dp/0132350882/_encoding=UTF8?coliid=IDGP10KBLGRPV&colid=1JMCNHNT959X2"
+  }
+]

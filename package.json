@@ -22,5 +22,9 @@
     "eslint-plugin-jsx-a11y": "^1.5.5",
     "eslint-plugin-react": "^5.2.2"
   },
-  "homepage": "https://github.com/micahstubbs/books-map-prototypes#readme"
+  "homepage": "https://github.com/micahstubbs/books-map-prototypes#readme",
+  "dependencies": {
+    "amazon-list-scraper": "^0.1.2",
+    "jsonfile": "^4.0.0"
+  }
 }
