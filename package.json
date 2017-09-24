@@ -25,6 +25,7 @@
   "homepage": "https://github.com/micahstubbs/books-map-prototypes#readme",
   "dependencies": {
     "amazon-list-scraper": "^0.1.2",
+    "csv-write-stream": "^2.0.0",
     "jsonfile": "^4.0.0"
   }
 }

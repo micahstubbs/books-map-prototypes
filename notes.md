@@ -4,3 +4,4 @@
 - edition / book versions
 - book cover image
 - show network of books an author has written
+- book rank on amazon
